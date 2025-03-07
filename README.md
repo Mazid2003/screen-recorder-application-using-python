@@ -73,3 +73,7 @@ pyinstaller --onefile --windowed --icon=icon(image of you application and it sho
 **📌 Conclusion**
 
 This Screen Recorder Application provides an efficient way to capture screen activity, making it ideal for tutorials, presentations, and screen-sharing needs. Its simple GUI and real-time recording make it a powerful yet lightweight tool.
+
+**📜 License**
+
+This project is open-source under the MIT License. Feel free to use and modify it! 🚀
