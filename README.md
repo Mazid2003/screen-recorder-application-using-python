@@ -68,7 +68,7 @@ To create a standalone application, use PyInstaller:
 
 pip install pyinstaller
 
-pyinstaller --onefile --windowed --icon=icon.ico screen_recorder.py
+pyinstaller --onefile --windowed --icon=icon(image of you application and it should be in .ico formate).ico screen_recorder.py
 
 **📌 Conclusion**
 
