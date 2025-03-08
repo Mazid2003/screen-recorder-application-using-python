@@ -86,21 +86,7 @@ If you make updates, others can pull the latest changes using:
 
 git pull origin main
 
-**🚀 How to Run the Project?**
-
-1️⃣ Install Dependencies
-
-Ensure Python is installed, then install required libraries:
-
-pip install opencv-python pyautogui numpy pillow tkinter
-
-2️⃣ Run the Application
-
-Execute the script:
-
-python screen_recorder.py
-
-3️⃣ Convert to an Executable 
+**Convert to an Executable**
 
 To create a standalone application, use PyInstaller:
 
