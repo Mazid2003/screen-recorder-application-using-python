@@ -76,7 +76,7 @@ pip install pyautogui
 
 After setup, they can execute the script:
 
-python screen.py
+python screenrecord.py
 
 The screenshot will be stored in the screenshots folder inside the project directory.
 
